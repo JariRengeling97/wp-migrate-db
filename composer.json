@@ -1,0 +1,16 @@
+{
+    "name": "JariRengeling97/wp-migrate-db",
+    "type": "library",
+    "description": "WP Migrate DB - PRO",
+    "keywords": ["wp","plugin"],
+    "homepage": "https://bureauvdo.nl/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jari Rengeling",
+            "email": "jari@bureauvdo.nl",
+            "homepage": "https://bureauvdo.nl/",
+            "role": "Developer"
+        }
+    ]
+}
