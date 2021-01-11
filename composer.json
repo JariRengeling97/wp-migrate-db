@@ -1,6 +1,6 @@
 {
     "name": "jarirengeling97/wp-migrate-db",
-    "type": "library",
+    "type": "wordpress-plugin",
     "description": "WP Migrate DB - PRO",
     "keywords": ["wp","plugin"],
     "homepage": "https://bureauvdo.nl/",
